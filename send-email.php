@@ -170,7 +170,7 @@ IP Address: ". $ip . " |\r\n
 
 
 
-Project: ". $project = "Godrej Epoque Neopolis" . " |\r\n
+Project: ". $project = "Godrej Thane" . " |\r\n
 
 
 
